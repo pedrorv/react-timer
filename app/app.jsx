@@ -5,7 +5,6 @@ const Main = require('Main')
 const Countdown = require('Countdown')
 const Timer = require('Timer')
 
-require('style!css!foundation-sites/dist/foundation.min.css')
 require('style!css!sass!applicationStyles')
 $(document).foundation()
 
